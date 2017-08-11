@@ -6,11 +6,7 @@ This is a second test
 
 This is a very long test
 
-This is another test after creating the ssh key again
+Selon moi, le terminal ne me demanderai plus le mot de passe
 
-Saving the ssh key in the keychaingit 
 
-To see if it's all clear
-
-New change to commit
 
