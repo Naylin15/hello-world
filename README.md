@@ -9,3 +9,5 @@ This is a very long test
 This is another test after creating the ssh key again
 
 Saving the ssh key in the keychaingit 
+
+To see if it's all clear
