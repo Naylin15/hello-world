@@ -6,7 +6,6 @@ This is a second test
 
 This is a very long test
 
-Selon moi, le terminal ne me demanderai plus le mot de passe
+Selon moi, le terminal ne me demandera plus le mot de passe
 
-On va practique les commands
-
+Je dois practiquer les commands
